@@ -115,7 +115,7 @@ export default function App() {
           }}
         >
           <Typography variant="h5" align="center">
-            💖 Алина бебе приложуха
+            💖 арина бебе приложуха
           </Typography>
 
           <Typography align="center">⭐ Количество бебе: {xp}</Typography>
