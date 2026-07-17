@@ -16,8 +16,7 @@ import Particles from "./components/Particles";
 import { faces } from "./data";
 import { getTheme } from "./theme";
 
-const background =
-  "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=1920";
+const background = "src/public/photo_2026-06-03_21-41-33.jpg";
 
 type Heart = {
   id: number;
